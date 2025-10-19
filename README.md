@@ -3,7 +3,7 @@
 
 
 ## About Me
-💻 ML & Data Science  | Python & R developer  
+💻 ML & Data Science  | Python & Java developer  
 📱 Exploring mobile apps | Turning data into action 🚀
 
 ## Skills
