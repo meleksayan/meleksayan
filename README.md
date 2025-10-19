@@ -1,6 +1,6 @@
 # Hi, I'm Melek 👋
 
-![Banner](https://media.giphy.com/media/3o7TKyVw2tqLhNf4Na/giphy.gif)
+
 
 ## About Me
 💻 ML & Data Science enthusiast | Python & R developer  
